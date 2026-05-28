@@ -1,0 +1,32 @@
+aid: 7timer
+name: 7Timer!
+description: "Weather, especially for Astroweather"
+url: http://www.7timer.info/doc.php?lang=en
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: 7Timer!
+    description: "Weather, especially for Astroweather"
+    humanURL: http://www.7timer.info/doc.php?lang=en
+    baseURL: http://www.7timer.info/doc.php?lang=en
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: http://www.7timer.info/doc.php?lang=en
+common:
+  - type: Website
+    url: http://www.7timer.info/doc.php?lang=en
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
