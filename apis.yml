@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www.7timer.info/doc.php?lang=en
 common:
+  - type: DomainSecurity
+    url: security/7timer-domain-security.yml
   - type: Website
     url: http://www.7timer.info/doc.php?lang=en
   - type: PublicAPIsListing
