@@ -1,4 +1,16 @@
 aid: 7timer
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/7timer.png
 name: 7Timer!
 description: "Weather, especially for Astroweather"
 url: http://www.7timer.info/doc.php?lang=en
