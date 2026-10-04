@@ -39,7 +39,6 @@ apis:
   - name: 7Timer!
     description: "Weather, especially for Astroweather"
     humanURL: http://www.7timer.info/doc.php?lang=en
-    baseURL: http://www.7timer.info/doc.php?lang=en
     tags:
       - Weather
     properties:
